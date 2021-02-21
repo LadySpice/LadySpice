@@ -70,22 +70,31 @@ ul li {
         
         h1 { 
             letter-spacing: 8px;
-            border-bottom: 1px solid black;
+            background-color: black;
+            border-bottom: 2px solid yellow;
             text-transform: uppercase;
         }
         h2{
             
         }
         p {
-            color: maroon;
+            font-size: 13px;
+            color: black;
+            background-color: wheat;
+            border-bottom: 1px solid black;
         }
         
-        p.greentea {
+        p.address {
+            font-size: 10px;
             color: purple;
         
         }
-        p.greentea span {
+        p.quotes {
+            font-size: 14px;
+        }
+        p.quotes span {
             font-style: italic;
+            color: deepskyblue;
         }
         .example {
             font-family: Veranda;
