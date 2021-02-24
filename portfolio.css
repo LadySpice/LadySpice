@@ -78,13 +78,13 @@ ul li {
             
         }
         p {
-            font-size: 13px;
+            /* font-size: 13px;
             color: black;
             background-color: wheat;
-            border-bottom: 1px solid black;
+            border-bottom: 1px solid black; */
         }
         
-        p.address {
+        address {
             font-size: 10px;
             color: purple;
         
@@ -101,4 +101,10 @@ ul li {
             font-weight: normal;
             font: size 2em;
         }
+
+      .sample {
+        background-color:#dcdcdc;
+        height:180px; /* temporary remove when image in */
+      }
+      
         
